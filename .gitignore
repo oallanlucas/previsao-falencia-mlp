@@ -1,0 +1,19 @@
+# dados (baixados da UCI por comum.carregar) e resultados gerados pelos notebooks
+dados/
+resultados/
+resultados_rapido/
+resumo_variaveis.csv
+
+# versões antigas, entregas e material de terceiros
+arquivo_antigo/
+entrega_projeto_falencia/
+entrega_codigo_falencia.zip
+*.pdf
+quadro-semestre.html
+
+# Python / Jupyter
+__pycache__/
+*.pyc
+.ipynb_checkpoints/
+logs/
+.jupyter_local/
